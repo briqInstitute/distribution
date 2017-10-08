@@ -1,2 +1,3 @@
-# distribution
-public repository for the briqInstitute organisation
+# Distribution
+
+This public repository hosts some material for public distribution.
